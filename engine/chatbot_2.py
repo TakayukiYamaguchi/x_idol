@@ -69,7 +69,7 @@ def main():
         else:
             reply = ''
         sentence = make_sentence(reply)
-        print('bot:' + sentence)
+        print('ochyai:' + sentence)
 
 if __name__ == '__main__':
     main()
